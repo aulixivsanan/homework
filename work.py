@@ -5,7 +5,7 @@ class Add(unittest.TestCase):
     def test02(self):
         print('我爱你')
 
-    def test02(self):
+    def test01(self):
         print('我爱你')
 
     def test03(self):
